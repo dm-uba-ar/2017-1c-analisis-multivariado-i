@@ -1,10 +1,5 @@
 # Análisis Multivariado I — Primer cuatrimestre de 2017
 
-## Equipo docente
-
-- **Clases teóricas:** Graciela Boente
-- **Clases prácticas:** Alejandra Martínez
-
 ## Prácticas
 
 - [Datos](Datos%20prac2-1mu.pdf)
